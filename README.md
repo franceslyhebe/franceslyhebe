@@ -1,8 +1,8 @@
-  #### Prefiro que me chame de Fran ou Hebe, tive meu primeiro contato com web e programação quanto tinha 13 anos, e ainda usava internet discada. Atualmente estou me atualizando pra voltar pra área da qual não deveria ter saído. :grinning: :grinning: :grinning:
+  ### Prefiro que me chame de Fran ou Hebe, tive meu primeiro contato com web e programação quanto tinha 13 anos, e ainda usava internet discada. Atualmente estou me atualizando pra voltar pra área da qual não deveria ter saído. :grinning: :grinning: :grinning:
 
 ##
 
-<div>
+<div align="center">
   <a href="https://github.com/franceslyhebe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franceslyhebe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franceslyhebe&layout=compact&langs_count=7&theme=radical"/>
